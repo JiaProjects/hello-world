@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hello there!
+
+I will be learning github to get better.
